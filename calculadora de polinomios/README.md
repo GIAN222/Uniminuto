@@ -1,5 +1,7 @@
 # Calculadora de Polinomios
 
+## Cómo usar el proyecto
+Puedes probar la aplicación directamente desde cualquier navegador web sin necesidad de descargar o instalar archivos. Recuerda siempre escribir el polinomio de manera ordenada.
 🚀 **[Abrir Calculadora de Polinomios](https://GIAN222.github.io/Uniminuto/calculadora%20de%20polinomios/)**
 
 *(Alternativa: Si deseas revisar el código fuente, puedes clonar este repositorio y abrir el archivo `index.html` localmente).*
@@ -15,9 +17,6 @@ Esta es una aplicación web desarrollada para aplicar métodos numéricos y cál
 ## Tecnologías Utilizadas
 * **JavaScript:** Lógica matemática, control de flujo y manipulación del DOM (`parseFloat`, `Math.abs`, `Math.pow`, `Math.sqrt`).
 * **HTML5 / CSS3:** Estructura de captura de coeficientes (a, b, c, d) y presentación de resultados en pantalla.
-
-## Cómo usar el proyecto
-Puedes probar la aplicación directamente desde cualquier navegador web sin necesidad de descargar o instalar archivos.
 
 ## Autor
 * **Giancarlo Franco Ibáñez** - Estudiante de Ingeniería de Software
