@@ -2,7 +2,7 @@
 
 ## Cómo usar el proyecto
 Puedes probar la aplicación directamente desde cualquier navegador web sin necesidad de descargar o instalar archivos. Recuerda siempre escribir el polinomio de manera ordenada.
-🚀 **[Abrir Calculadora de Polinomios](https://GIAN222.github.io/Uniminuto/calculadora%20de%20polinomios/)**
+🚀 [Abrir Calculadora de Polinomios](https://gian222.github.io/Uniminuto/calculadora%20de%20polinomios/)
 
 *(Alternativa: Si deseas revisar el código fuente, puedes clonar este repositorio y abrir el archivo `index.html` localmente).*
 
